@@ -2,7 +2,7 @@
   "name": "my-json-server",
   "version": "1.0.0",
   "scripts": {
-    "generate": "tsx ./generate.ts"
+    "generate": "tsx ./src/index.ts"
   },
   "devDependencies": {
     "tsx": "^3.12.6",

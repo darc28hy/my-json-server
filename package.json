@@ -1,0 +1,14 @@
+{
+  "name": "my-json-server",
+  "version": "1.0.0",
+  "scripts": {
+    "generate": "tsx ./generate.ts"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "@types/node": "^18.15.10"
+  }
+}
